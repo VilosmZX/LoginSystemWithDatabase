@@ -1,6 +1,6 @@
 # Login System using c++
 
-### **You can change database.txt to Example.dat
+### **You can change database.txt to Example.dat**
 
 
 ### **Header**
