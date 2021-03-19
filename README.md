@@ -3,12 +3,12 @@
 
 ### **Header**
 
-Markup :  `code()`
+Markup :  `
 #include <iostream>
 #include <windows.h>
 #include <istream>
 #include <fstream>
-using namespace std;
+using namespace std;`
 Markup : ```c++
          ```
 
