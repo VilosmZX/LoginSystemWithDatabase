@@ -9,5 +9,5 @@
 #include <istream>
 #include <fstream>
 using namespace std;
-```
+```c++
 
